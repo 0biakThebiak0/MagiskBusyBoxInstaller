@@ -1,0 +1,6 @@
+id=mbinstaller
+name=MagiskBusyboxInstaller
+version=v1.0
+versionCode=06
+author=@iamloooper
+description=Systemlessly install magisk busybox to the android system to make it accessible and useable
